@@ -1,0 +1,200 @@
+* {
+  background-color: black;
+  font-family: Helvetica;
+  color: seashell;
+
+}
+
+header {
+  display: flex;
+  align-items: center;
+  color: seashell;
+  font-family: Helvetica;
+  font-size: 22px;
+  background-color: black;
+  opacity: 0.9;
+  width: 100%;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid seashell;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  height: 69px;
+}
+
+nav {
+  padding-left: 730px;
+}
+
+a, a:visited {
+  color: seashell;
+}
+
+span {
+  padding: 10px;
+}
+
+header img {
+  height: 50px;
+}
+
+
+
+
+
+.part1{
+  margin-top: 90px;
+  text-align: center;
+  background-image: url("../images/background.jpg");
+  background-repeat: no-repeat;
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 20px;
+}
+
+.bckgrnd1 {
+  background-color: black;
+  font-size: 22px;
+  width: 100%;
+}
+
+
+
+
+
+
+.part2title {
+  font-size: 22px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.part2title h4 {
+  margin-bottom: 10px;
+  
+}
+
+.part2images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.part2a h4 {
+  font-size: 22px;
+  text-align: center;
+}
+
+.part2a img {
+  height: 200px;
+  width: 300px;
+  padding: 15px;
+}
+
+
+
+
+
+
+ .part3 {
+
+    background-image: url("../images/locations.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-left: 20px;
+    margin-top: 50px;
+
+  }
+
+.part3title {
+  font-size: 22px;
+  text-align: center;
+  background-color: transparent;
+  padding-right: 60px;
+}
+
+.part3title h2 {
+  background-color: transparent;
+}
+
+.part3 .column1 {
+  display: inline-block;
+  font-size: 22px;
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  margin-left: 60px;
+  opacity: 1;
+
+}
+
+.part3 .column2 {
+  display:inline-block;
+  font-size: 22px;
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  margin-left: 40px;
+  opacity: 1;
+}
+
+.part3 .column3 {
+  display:inline-block;
+  font-size: 22px;
+  background-color: black;
+  height: 300px;
+  width: 300px;
+  margin-left: 40px;
+  opacity: 1;
+}
+
+
+.column1 h3, p {
+  text-align: center;
+}
+.column2 h3, p {
+  text-align: center;
+}
+.column3 h3, p {
+  text-align: center;
+}
+
+
+
+
+
+
+.part4 {
+  height: ;
+}
+
+.part4title {
+  font-size: 22px;
+  text-align: center;
+  }
+
+.email {
+  font-size: 22px;
+  text-align: center;
+}
+
+.phonenumber {
+  font-size: 22px;
+  text-align: center;
+}
+
+.email {
+  font-size: 22px;
+  text-align: center;
+}
+
+footer {
+  font-size: 22px;
+  text-align: left;
+}
